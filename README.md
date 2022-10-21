@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript..Node..React**
 
-- 👯 I’m looking to collaborate on **Smart UI for Ubuntu & Elgato Stream Deck.**
+- 👯 I’m looking to collaborate on **Smart UI & Driver for Ubuntu & Elgato Stream Deck.**
 
 - 📫 How to reach me **me@antonylester.com**
 
