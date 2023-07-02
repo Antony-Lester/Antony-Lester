@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antony-lester" alt="antony-lester" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript..Node..React**
+- 🌱 I’m currently learning **type-script**
 
 - 👯 I’m looking to collaborate on **Smart UI & Driver for Ubuntu & Elgato Stream Deck.**
 
