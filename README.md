@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Smart UI & Driver for Ubuntu & Elgato Stream Deck.**
 
-- 📫 How to reach me **me@antonylester.com**
+- 📫 How to reach me **ant.l@post.com**
 
 - 💼 [Some of my projects](https://antony-lester-portfolio.web.app)
 <h3 align="left">Connect with me:</h3>
