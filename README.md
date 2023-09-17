@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ant.l@post.com**
 
-- 💼 [Some of my projects](https://antony-lester-portfolio.web.app)
+- 💼 [a little about me](https://antony-lester-portfolio.web.app)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antony-lester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-lester" height="30" width="40" /></a>
