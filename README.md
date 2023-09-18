@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **type-script**
 
-- 👯 I’m looking to collaborate on **Smart UI & Driver for Ubuntu & Elgato Stream Deck.**
+- 👯 Help collaborate on [**Smart UI & Driver for Ubuntu & Elgato Stream Deck.**](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui)
 
 - 📫 How to reach me **ant.l@post.com**
 
