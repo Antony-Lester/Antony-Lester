@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **me@antonylester.com**
 
-- 💼 [a little about me (react)](https://antony-lester-portfolio.web.app)
+-  💼 [portfolio (js & html) - partly complete ](https://portfolio-f4791.web.app/)
 
--  💼 [a little about me (html)](https://portfolio-f4791.web.app/)
+- 💼 [portfolio (react) - underconstruction ](https://antony-lester-portfolio.web.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antony-lester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-lester" height="30" width="40" /></a>
