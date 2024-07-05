@@ -9,9 +9,7 @@
 
 - 👯 Help collaborate on [**Smart UI & Driver for Ubuntu & Elgato Stream Deck.**](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui)
 
-- 📫 How to reach me **me@antonylester.com**
-
--  💼 [portfolio (js & html) - partly complete ](https://portfolio-f4791.web.app/)
+-  💼 [portfolio (js & html) - partly complete (deprecated) ](https://portfolio-f4791.web.app/)
 
 - 💼 [portfolio (react) - underconstruction ](https://antony-lester-portfolio.web.app)
 
