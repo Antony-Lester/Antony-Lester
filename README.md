@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antony-lester" alt="antony-lester" /></a> </p>
 
--  💼 [portfolio (js & html) - partly complete (deprecated) ](https://portfolio-f4791.web.app/)
-
-- 💼 [portfolio (react) - underconstruction ](https://antony-lester-portfolio.web.app)
+- 💼 [https://antony-lester-portfolio.web.app](https://portfolio-antony-lester.web.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
